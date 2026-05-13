@@ -20,6 +20,10 @@ The architecture follows AWS Well-Architected Framework principles across securi
 * Strengthen hands-on experience with cloud-native deployment practices
 
 ---
+## Architecture Diagram
+
+<img width="975" height="663" alt="image" src="https://github.com/user-attachments/assets/6cc36914-20cd-4f2c-a5aa-90af6e93c6b1" />
+---
 
 ## AWS Services Used
 
@@ -124,12 +128,6 @@ These monitoring capabilities supported troubleshooting, observability and appli
 * Logging and observability concepts
 * Role-based access control implementation
 * Technical documentation and architecture design
-
----
-
-## Architecture Diagram
-
-<img width="975" height="663" alt="image" src="https://github.com/user-attachments/assets/6cc36914-20cd-4f2c-a5aa-90af6e93c6b1" />
 
 ---
 
