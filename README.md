@@ -133,18 +133,24 @@ These monitoring capabilities supported troubleshooting, observability and appli
 
 ---
 
-## Screenshots
+## Key AWS Components
 
 The project includes screenshots demonstrating:
 
-* AWS Lambda functions
-* API Gateway configuration
-* DynamoDB tables
-* CloudFront distribution
-* Amazon Cognito authentication
-* CloudWatch monitoring
-* Stripe payment integration
-* SNS notification workflows
+### Amazon Cognito Authentication
+![Cognito Authentication](Screenshots/cognito.png)
+
+### Amazon API Gateway
+![API Gateway](Screenshots/API-Gateway.png) 
+
+### AWS Lambda Functions
+![Lambda Functions](Screenshots/Lambda-Functions.png)
+
+### Amazon CloudWatch Monitoring
+![CloudWatch Monitoring](Screenshots/CloudWatch-Logs.png)
+
+### Amazon CloudFront Distribution
+![CloudFront Distribution](Screenshots/CloudFront-Distro.png)
 
 ---
 
