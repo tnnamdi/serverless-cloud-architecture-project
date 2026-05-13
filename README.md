@@ -138,19 +138,19 @@ These monitoring capabilities supported troubleshooting, observability and appli
 The project includes screenshots demonstrating:
 
 ### Amazon Cognito Authentication
-![Cognito Authentication](Screenshots/cognito.png)
+![Cognito Authentication](Screenshots/cognito-auth.png)
 
 ### Amazon API Gateway
-![API Gateway](Screenshots/API-Gateway.png) 
+![API Gateway](Screenshots/api-gateway.png) 
 
 ### AWS Lambda Functions
-![Lambda Functions](Screenshots/Lambda-Functions.png)
+![Lambda Functions](Screenshots/lambda-functions.png)
 
 ### Amazon CloudWatch Monitoring
-![CloudWatch Monitoring](Screenshots/CloudWatch-Logs.png)
+![CloudWatch Monitoring](Screenshots/cloudwatch-monitoring.png)
 
 ### Amazon CloudFront Distribution
-![CloudFront Distribution](Screenshots/CloudFront-Distro.png)
+![CloudFront Distribution](Screenshots/cloudfront-distribution.png)
 
 ---
 
